@@ -1,0 +1,109 @@
+.contenu{
+	padding-top: 1%;
+	
+	margin-left: 20%;
+}
+.photo{
+	margin-left: 40px;
+}
+.cadre1{
+	text-align: center;
+	margin-top: -50%;
+	margin-left:40%;
+	border: solid 1px #c2c3c4;
+	width: 330px;
+	height: 360px;
+}
+.cadre2{
+	text-align: center;
+	margin-top: 1%;
+	margin-left:40%;
+	border: solid 1px #c2c3c4;
+	width: 330px;
+	height: 50px;
+}
+h1{
+	text-align: center;
+	font-family: Script MT;
+	font-size: 50px;
+}
+#form{
+	margin-top: -20px;
+}
+#user{
+	height: 30px;
+	width: 250px;
+	font-size : 12px;
+	opacity: 70%;
+}
+#password{
+	height: 30px;
+	width: 250px;
+	font-size : 12px;
+	opacity: 70%;
+}
+#button{
+	background-color: #8ed0f8;
+	color: white;
+	height: 27px;
+	width: 250px;
+	border-radius: 5px;
+	cursor:pointer;
+	border: none;
+}
+#trait1{
+	margin-top: 20px;
+	border-bottom: #c2c3c4 solid 0.1px;
+    width: 100px;
+    margin-left: 40px; 
+}
+h3{
+	color: #c2c3c4;
+	margin-top: -13px;
+	font-size: 20px;
+}
+#trait2{
+	margin-top: -30px;
+	border-bottom: #c2c3c4 solid 0.1px;
+    width: 100px;
+    margin-left: 190px; 
+}
+#fb{
+	text-decoration: none; 
+	color: #385195;
+	font-family: Segoe UI;
+}
+#alterne{
+	text-decoration: none; 
+	font-family: Segoe UI;
+	font-size:13px; 
+	color:  #00386b;
+}
+#inscription{
+	text-decoration: none; 
+	font-family: Segoe UI;
+	color:  #0095f6;
+}
+.application{
+	text-align: center;
+	margin-left:40%;
+	border: solid 1px white;
+	width: 330px;
+	height: 150px;
+	font-family: Segoe UI;
+}
+.footer{
+	text-align: center;
+	margin-left: -300px;
+}
+#footer{
+	text-decoration: none;
+	color: #8e8e8e;
+	font-family: Segoe UI;
+	font-size: 13px;
+}
+#stylefooter{
+	color: #8e8e8e;
+	font-family: Segoe UI;
+	font-size: 13px;
+}
